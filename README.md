@@ -1,4 +1,4 @@
-Multi Vendor Project
+#Multi Vendor Project
 Developed a Multi-Vendor Project using MERN technology. Different vendors can register through the vendor dashboard. After successful registration, vendors can log in to their accounts and add their restaurant details and products.
 The vendor dashboard includes tabs such as Add Firm, Add Products, and All Products. Using React.js, created a user interface where customers can view restaurant details, products, and pricing information.
 Vendor Registeration
